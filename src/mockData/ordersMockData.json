@@ -1,0 +1,69 @@
+[
+  {
+    "_id": "64c3cfe26f5243d938c7cf95",
+    "id": "42342344324",
+    "createDate": "2023-07-28T14:25:38.339Z",
+    "status": "Approve",
+    "client": "juandavidtabaresarce@gmail.com",
+    "shippingAddress": "cll 21 n 27 56",
+    "shippingPromise": "2023-08-02T14:25:38.339Z",
+    "items": [
+      {
+        "product": {
+          "id": "454546",
+          "title": "Hoodie",
+          "description": "This classic hoodie from Element is great all year round. Ideal for layering.",
+          "url": "Item url",
+          "price": 120,
+          "quantity": "4",
+          "image": "/static/media/hoodie.d45b85b4.jpg"
+        }
+      },
+      {
+        "product": {
+          "id": "4545432",
+          "title": "Trousers",
+          "description": "7oz natural cotton duck fabric. Hand-stiched front center line. Clean tailored finishing on waistband and seams. Two rounded patch pockets with flap on back. Invisible hem",
+          "url": "Item url",
+          "price": 85,
+          "quantity": "6",
+          "image": "/static/media/pants.3b2e24a6.webp"
+        }
+      }
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "64c3ee75a1f7f5d80873d7ca",
+    "createDate": "2023-07-28T16:36:05.653Z",
+    "status": "Traveling",
+    "client": "juandavidtabaresarce@gmail.com",
+    "shippingAddress": "cll 21 n 27 56",
+    "shippingPromise": "2023-08-02T16:36:05.653Z",
+    "items": [
+      {
+        "product": {
+          "id": "34353",
+          "title": "Motorcycle Jacket",
+          "description": "Effortlessly cool and supremely functional, a motorcycle jacket is a wardrobe essential. Our thoughtful design approach can only be truly appreciated once you put it on. Five pockets, a perfect fit, and handmade with the highest quality materials to last a lifetime.",
+          "url": "Item url",
+          "price": 850,
+          "quantity": "3",
+          "image": "/static/media/leatherJacket.fb8789de.webp"
+        }
+      },
+      {
+        "product": {
+          "id": "34353",
+          "title": "Women Fit and Flare Black Dress",
+          "description": "Short-sleeved T-shirt, made with fine gauge fabric and compacted finish. Round neck with 4 layers, reinforced seam covers on the neck and shoulders and side seams. 100% combed cotton, single jersey, 180 g/m2..",
+          "url": "Item url",
+          "price": 146,
+          "quantity": "4",
+          "image": "/static/media/tshirt.2dc573d7.jpg"
+        }
+      }
+    ],
+    "__v": 0
+  }
+]
